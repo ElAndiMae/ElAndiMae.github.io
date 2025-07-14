@@ -1,6 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icon.min.css');
 
+.va{
+    color: #4caf50;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.navbar-brand-comeback{
+    text-decoration: none;
+}
+
+.logo-img{
+    width: 20px;
+    height: 25px;
+    padding-top: 5px;
+}
 * {
     font-family: 'Montserrat', sans-serif;
     box-sizing: border-box;
